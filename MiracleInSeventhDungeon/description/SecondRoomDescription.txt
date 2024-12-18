@@ -1,0 +1,18 @@
+************************************************************************************************										         	Congratulations, welcome to the second room. There is no window in this room and the room smells very bad. The walls of the room are now so dark that its color cannot be distinguished. A small bulb on the ceiling of the room, torn between working and not working, tries to illuminate the room. You can look at the items in the room with <look> and choose what you want according to your carrying capacity. There are 2 doors in the room. The door you came from and the exit door.While the door of the room you came from is to the south, the door of the next room is to your east.The guard of the exit door of the room is Blitzwolfer, a wolf with purple colored claws. To get to the next room, you must defeat Blitzwolferm.After you defeated  Blitzwolfer you can move east for next room after.
+
+************************************************************************************************	
+
+                                     <<<<<<< MAP >>>>>>> 
+              
+               ROOM 1 -> ROOM 2     ROOM 5      ---------- >   ROOM 6
+                                  
+                           |         ^                           |
+                           v         |                           v
+                             
+                         ROOM 3 --> ROOM 4         Freedom <-- ROOM 7  
+
+************************************************************************************************
+
+
+
+

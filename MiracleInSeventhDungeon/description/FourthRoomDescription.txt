@@ -1,0 +1,15 @@
+************************************************************************************************																							         Congratulations, welcome to the fourth room.The room has a broken window. The cold comes in from here and the surroundings are quite dusty. There are dents on the walls of this room. The room has two doors, the door you came from and the door of the next room. While the door you came from is behind you in the south, the next door is on your left, in the west. At the door of the next room. There is a short but plump Cannonbolt door guard in yellow and white. After defeating Cannonbolt, you can move to the next room by moving west.
+
+************************************************************************************************	
+
+                                     <<<<<<< MAP >>>>>>> 
+              
+               ROOM 1 -> ROOM 2     ROOM 5      ---------- >   ROOM 6
+                                  
+                           |         ^                           |
+                           v         |                           v
+                             
+                         ROOM 3 --> ROOM 4         Freedom <-- ROOM 7  
+
+************************************************************************************************
+

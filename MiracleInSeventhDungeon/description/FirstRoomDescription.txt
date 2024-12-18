@@ -1,0 +1,46 @@
+************************************************************************************************
+
+                               < About the Items in Game >
+1. Combat Items (Attack Tools)
+	Sword: +25 damage, melee.
+	Knife: +15 damage, melee.
+	Hammer: +20 damage, melee.
+	Glock G43: +35 damage per shot, 4 bullets capacity, uses 9mm bullets.
+	AWM: +50 damage per shot, 2 bullets capacity, exclusive ammo from the special box.
+
+------------------------------------------------------------------------------------------------
+
+2. Health Items
+	First Aid Kit: +25% health, +3 strength.
+	Bandage: +10% health, +2 strength.
+	Painkiller: +10% health, no strength boost.
+	Energy Drink: +5% health, +1 strength.
+	Injection: +10% health, no strength boost.
+
+------------------------------------------------------------------------------------------------
+
+3. Protective Gear
+	Helmets: Level 1 (-3% damage), Level 2 (-6% damage).
+	Shield: -8% damage.
+	Arm Guards/Knee Pads: -2% damage each.
+	Armored Suit: Level 1 (-8% damage), Level 2 (-16% damage).
+	Armored Boots: Level 1 (-3% damage), Level 2 (-6% damage).
+
+************************************************************************************************
+Welcome to the Miracle in the 7th Dungeon game. You are currently in 1st room. This room is gloomy and has one window that does not illuminate inside much.The room has one door.The door from the room is in front of you and you can move north for going door.There is no creature guard at this door you can move north and leave this room and go to the next room. You can collect the items you want by looking at the items in the room with <look>.Be careful about your carrying capacity!
+
+************************************************************************************************	
+
+                                     <<<<<<< MAP >>>>>>> 
+              
+               ROOM 1 -> ROOM 2     ROOM 5      ---------- >   ROOM 6
+                                  
+                           |         ^                           |
+                           v         |                           v
+                             
+                         ROOM 3 --> ROOM 4         Freedom <-- ROOM 7  
+
+************************************************************************************************
+
+
+														

@@ -1,0 +1,17 @@
+************************************************************************************************
+
+Congratulations, welcome to the fifth room. This room looks very scary and there is foggy and depressing smoke in the room. Whispering ghost sounds can be heard in the room and it is very scary. There are two doors in the room, one is the door you came from and the other is the door to the other room. The door of the room you came from is behind you, while the door of the next room is to the east. The guard of exit room  Ghostfreak is a ghost that can fly in the air and looks extremely scary with a single purple eye. After defeating Ghostfreak, you can move to the next room by moving east.
+
+************************************************************************************************	
+
+                                     <<<<<<< MAP >>>>>>> 
+              
+               ROOM 1 -> ROOM 2     ROOM 5      ---------- >   ROOM 6
+                                  
+                           |         ^                           |
+                           v         |                           v
+                             
+                         ROOM 3 --> ROOM 4         Freedom <-- ROOM 7  
+
+************************************************************************************************
+

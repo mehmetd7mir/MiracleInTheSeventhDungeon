@@ -1,0 +1,19 @@
+************************************************************************************************												Congratulations, welcome to the seventh room. This room is extremely hot. There is a small tree-like dent in the corner of the room, and an old, useless cigarette case on the floor. "Where there is no hope, miracles bloom" is written on the wall.There are two guard creatures in the room. The first one is Headblast, who guards the special shiny box, and Vilgax, who guards the exit door. Opening the special box You must defeat Headbalst, the guard for the shiny box. When you defeat Headblast, the box will open. If you want to go out of the door by defeating Vilgax directly and open the door, write attack Vilgax and then move north. You can open the door. If you want to open the special box first, you can open the special box by defeating Headblast after saying attack Headblast, then defeat Vilgax with attack Vilgax and open the door with move north.
+
+************************************************************************************************	
+
+                                     <<<<<<< MAP >>>>>>> 
+              
+               ROOM 1 -> ROOM 2     ROOM 5      ---------- >   ROOM 6
+                                  
+                           |         ^                           |
+                           v         |                           v
+                             
+                         ROOM 3 --> ROOM 4         Freedom <-- ROOM 7  
+
+************************************************************************************************
+
+
+
+
+    

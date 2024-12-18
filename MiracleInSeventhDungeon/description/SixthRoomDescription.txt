@@ -1,0 +1,15 @@
+************************************************************************************************												 Congratulations, welcome to the sixth room. In this room, the floor is made of diamond and slippery and it has no windows. The room has two doors, one is the door you came from and the other is the door of the next room. The door of the room you came from is behind you, while the door of the next room is on your right, that is, to the west. The door of the next room is to the west. Diomandhead, the guard, has a diamond body and is green and black in color. You can pass to the next room by defeating Diomandhead and moving east.
+
+************************************************************************************************	
+
+                                     <<<<<<< MAP >>>>>>> 
+              
+               ROOM 1 -> ROOM 2     ROOM 5      ---------- >   ROOM 6
+                                  
+                           |         ^                           |
+                           v         |                           v
+                             
+                         ROOM 3 --> ROOM 4         Freedom <-- ROOM 7  
+
+************************************************************************************************
+

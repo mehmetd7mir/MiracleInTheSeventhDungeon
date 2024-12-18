@@ -1,0 +1,18 @@
+************************************************************************************************												 Congratulations, welcome to the third room. This room looks brighter than the other rooms and looks clean compared to the other rooms. There are a few meaningless drawings made with red paint on the walls of the room. There are two doors in this room. The door you came from is behind you, that is, to the south, and the next door is to the west of you. There are four handles waiting for you at the door. The red door guard, Fourarms, is waiting. You can view the items in the room with <look> and get what you want. After defeating the Fourarms, you can move to the next room with move west.
+
+************************************************************************************************	
+
+                                     <<<<<<< MAP >>>>>>> 
+              
+               ROOM 1 -> ROOM 2     ROOM 5      ---------- >   ROOM 6
+                                  
+                           |         ^                           |
+                           v         |                           v
+                             
+                         ROOM 3 --> ROOM 4         Freedom <-- ROOM 7  
+
+************************************************************************************************
+
+
+
+
